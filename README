@@ -1,0 +1,11 @@
+Mierlich Daniel 323CB
+
+Am gasit rezolvat problemele 2 si 3.
+
+Problema 2 seamana cu problema BellmanFord(as spune ca e identica)
+Bag nodul sursa in coada. Si pentru fiecare nod vecin cu el verific, daca drumul ales
+la pasul curent este mai mic ca cel calculat la pasii anteriori. Initial am setat
+toate distantele cu un numar mare.
+
+Problema 3 e tot e preblema de gasirea a drumuli minim doar ca mai trebuie de calculat
+pierderea de energie. La acest task scrierea in fisier o fac din Makefile.
